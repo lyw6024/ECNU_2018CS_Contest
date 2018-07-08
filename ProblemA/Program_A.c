@@ -18,9 +18,6 @@ int main(void)
 		case '*':
 			res=(n1-'0')*(n2-'0');
 			break;
-		case '/':
-			res=(n1-'0')/(n2-'0');
-			break;
 		default:
 			break;
 	}
