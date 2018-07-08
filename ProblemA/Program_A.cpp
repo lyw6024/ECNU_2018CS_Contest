@@ -18,9 +18,6 @@ int main(void)
 		case '*':
 			res=x*y;
 			break;
-		case '/':
-			res=x/y;
-			break;
 		default:
 			break;
 	}
