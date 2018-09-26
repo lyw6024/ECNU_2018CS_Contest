@@ -9,7 +9,6 @@ struct sNode
 
 int main(void)
 {
-	freopen("log","r",stdin);
 	int i,N,curr_index;
 	scanf("%d",&N);
 	for(i=1;i<=N;i++)
